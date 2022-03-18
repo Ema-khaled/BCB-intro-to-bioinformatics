@@ -1,0 +1,4 @@
+A nucleotide is the basic building block of nucleic acids.
+ RNA and DNA are polymers made of long chains of nucleotides. 
+A nucleotide consists of a sugar molecule (either ribose in RNA or deoxyribose in DNA)
+ attached to a phosphate group and a nitrogen-containing base.
